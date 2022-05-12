@@ -1,0 +1,10 @@
+/*
+Website created using Big Picture template by HTML5 UP as reference
+*/
+
+/* Loader */
+
+body:before,
+body:after {
+  display: none;
+}
